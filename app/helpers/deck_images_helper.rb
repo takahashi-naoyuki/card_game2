@@ -1,0 +1,2 @@
+module DeckImagesHelper
+end
